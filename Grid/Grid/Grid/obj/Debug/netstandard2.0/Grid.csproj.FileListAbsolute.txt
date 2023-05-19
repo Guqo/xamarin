@@ -1,0 +1,15 @@
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\bin\Debug\netstandard2.0\Grid.deps.json
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\bin\Debug\netstandard2.0\Grid.dll
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\bin\Debug\netstandard2.0\ref\Grid.dll
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\bin\Debug\netstandard2.0\Grid.pdb
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\obj\Debug\netstandard2.0\Grid.csproj.AssemblyReference.cache
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\obj\Debug\netstandard2.0\Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\obj\Debug\netstandard2.0\Grid.AssemblyInfoInputs.cache
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\obj\Debug\netstandard2.0\Grid.AssemblyInfo.cs
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\obj\Debug\netstandard2.0\Grid.csproj.CoreCompileInputs.cache
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\obj\Debug\netstandard2.0\Grid.dll
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\obj\Debug\netstandard2.0\ref\Grid.dll
+C:\Users\ryto0\source\repos\Grid\Grid\Grid\obj\Debug\netstandard2.0\Grid.pdb

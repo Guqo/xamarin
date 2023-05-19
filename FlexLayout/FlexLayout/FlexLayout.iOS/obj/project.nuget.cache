@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yQcf4Lb4wkreQiyfLTMhF5228v3Ba/y+dnCw+7TS34gEgDwlqJ+P3QEsFhAuqOmSOsyF/70aKWWcT33Cbxra5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryto0\\source\\repos\\FlexLayout\\FlexLayout\\FlexLayout.iOS\\FlexLayout.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryto0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

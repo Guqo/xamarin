@@ -1,0 +1,15 @@
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\bin\Debug\netstandard2.0\FlexLayout.deps.json
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\bin\Debug\netstandard2.0\FlexLayout.dll
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\bin\Debug\netstandard2.0\ref\FlexLayout.dll
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\bin\Debug\netstandard2.0\FlexLayout.pdb
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\FlexLayout.csproj.AssemblyReference.cache
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\FlexLayout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\FlexLayout.AssemblyInfoInputs.cache
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\FlexLayout.AssemblyInfo.cs
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\FlexLayout.csproj.CoreCompileInputs.cache
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\FlexLayout.dll
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\ref\FlexLayout.dll
+C:\Users\ryto0\source\repos\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\FlexLayout.pdb
